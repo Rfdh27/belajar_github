@@ -6,3 +6,5 @@ belajar markdown
 1. aku
 2. kamu
 3. kita
+
+[git](https://www.markdownguide.org/cheat-sheet/)
