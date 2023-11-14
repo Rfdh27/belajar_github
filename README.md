@@ -2,4 +2,4 @@
 belajar markdown
 
 # Belajar Github
-** ayo belajar **
+**ayo belajar**
